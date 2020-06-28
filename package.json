@@ -7,11 +7,11 @@
     "parcel-plugin",
     "dot-html"
   ],
-  "homepage": "https://github.com/vseventer/parcel-plugin-remove-index-html",
+  "homepage": "https://github.com/cboden/parcel-plugin-remove-dot-html",
   "license": "MIT",
   "author": "Mark van Seventer <mark@vseventer.com> (https://www.vseventer.com)",
   "main": "./index.js",
-  "repository": "github:cboden/parcel-plugin-remove-index-html",
+  "repository": "github:cboden/parcel-plugin-remove-dot-html",
   "dependencies": {
     "debug": "^4.1.1",
     "posthtml": "^0.12.0"
