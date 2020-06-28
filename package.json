@@ -1,17 +1,17 @@
 {
-  "name": "parcel-plugin-remove-index-html",
+  "name": "parcel-plugin-remove-dot-html",
   "version": "0.1.0",
-  "description": "Remove index.html from internal links in Parcel's build output.",
+  "description": "Remove '.html' from internal links in Parcel's build output.",
   "keywords": [
     "parcel",
     "parcel-plugin",
-    "index-html"
+    "dot-html"
   ],
   "homepage": "https://github.com/vseventer/parcel-plugin-remove-index-html",
   "license": "MIT",
   "author": "Mark van Seventer <mark@vseventer.com> (https://www.vseventer.com)",
   "main": "./index.js",
-  "repository": "github:vseventer/parcel-plugin-remove-index-html",
+  "repository": "github:cboden/parcel-plugin-remove-index-html",
   "dependencies": {
     "debug": "^4.1.1",
     "posthtml": "^0.12.0"
